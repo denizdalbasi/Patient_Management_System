@@ -1,6 +1,8 @@
 #Hospital Record System
 
-    Hospital Record System is a Python-based desktop application developed using Tkinter for managing patient records in a hospital environment. The application provides a graphical user interface that allows users to add, update, delete, and browse patient information efficiently. It also includes automatic Body Mass Index (BMI) calculation and database-backed persistent storage.
+    Hospital Record System is a Python-based desktop application developed using Tkinter for managing patient records in a hospital environment. 
+    The application provides a graphical user interface that allows users to add, update, delete, and browse patient information efficiently. 
+    It also includes automatic Body Mass Index (BMI) calculation and database-backed persistent storage.
 
 Features
     
